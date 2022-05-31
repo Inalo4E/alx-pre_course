@@ -1,0 +1,4 @@
+git checkout my branch
+git fetch origin
+git pull origin main
+git push origin main
